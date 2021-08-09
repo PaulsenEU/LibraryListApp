@@ -1,6 +1,0 @@
-C:\Users\pawel\source\repos\LibraryAppLibrary\LibraryAppLibrary\bin\Debug\LibraryAppLibrary.dll
-C:\Users\pawel\source\repos\LibraryAppLibrary\LibraryAppLibrary\bin\Debug\LibraryAppLibrary.pdb
-C:\Users\pawel\source\repos\LibraryAppLibrary\LibraryAppLibrary\obj\Debug\LibraryAppLibrary.csproj.AssemblyReference.cache
-C:\Users\pawel\source\repos\LibraryAppLibrary\LibraryAppLibrary\obj\Debug\LibraryAppLibrary.csproj.CoreCompileInputs.cache
-C:\Users\pawel\source\repos\LibraryAppLibrary\LibraryAppLibrary\obj\Debug\LibraryAppLibrary.dll
-C:\Users\pawel\source\repos\LibraryAppLibrary\LibraryAppLibrary\obj\Debug\LibraryAppLibrary.pdb
