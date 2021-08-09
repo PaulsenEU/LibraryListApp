@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LibraryUI/1.0.0": {
+        "dependencies": {
+          "MaterialSkin.2": "2.2.1"
+        },
+        "runtime": {
+          "LibraryUI.dll": {}
+        }
+      },
+      "MaterialSkin.2/2.2.1": {
+        "runtime": {
+          "lib/net461/MaterialSkin.dll": {
+            "assemblyVersion": "2.2.1.0",
+            "fileVersion": "2.2.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MaterialSkin.2/2.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dxOn6yKbNZGiqjFGgjtC+C4yEc53PApwDabhcgOdqK+FCdsYUcFh0GunmJUPMJ2uIM2PmGDZM9Nf0BQCX9uhPg==",
+      "path": "materialskin.2/2.2.1",
+      "hashPath": "materialskin.2.2.2.1.nupkg.sha512"
+    }
+  }
+}
